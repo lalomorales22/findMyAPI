@@ -1,4 +1,5 @@
 # FindMyAPI
+<img width="566" alt="Screenshot 2025-01-03 at 3 17 59 PM" src="https://github.com/user-attachments/assets/9557c021-95f0-4d6e-8491-7322564c795f" />
 
 FindMyAPI is a macOS application designed to help developers securely manage and organize their API keys. Built with SwiftUI and leveraging SwiftData for persistent storage, it provides a clean and intuitive interface for storing, categorizing, and quickly accessing your API keys.
 
